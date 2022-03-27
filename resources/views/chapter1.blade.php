@@ -1,3 +1,4 @@
+<h3 style="text-align:center">Joost</h3>
 Joost had two problems: the moon and his mustache.
     He was supposed to be making his rounds at the Hoede house, but for
 the last fifteen minutes, he’d been hovering around the southeast wall of the

@@ -26,4 +26,12 @@ class SixOfCrowsController extends Controller
             'route_chapter' => $route_chapter
         ]);
     }
+
+    public function showAllChapters(){
+        return view('all-chapters', [
+            'book_name' => static::BOOK_NAME,
+            'part_name' => static::PART_NAME,
+            'chapter_number' => static::CHAPTERS,
+        ]);
+    }
 }
